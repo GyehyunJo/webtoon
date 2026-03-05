@@ -9,6 +9,17 @@
 - GitHub 레포: webtoon
 - 작업 폴더: C:\Users\cgh56\Desktop\pocsoccer\webtoon
 
+## 캐릭터 레퍼런스 이미지
+
+이미지 생성 시 아래 레퍼런스 이미지를 Gemini API에 함께 전달하여 캐릭터 일관성 유지.
+
+| 캐릭터 | 파일 |
+|--------|------|
+| 이 대리 (주인공) | `images/lee.png` |
+| 박 부장 | `images/park.png` |
+
+> generate.py가 자동으로 두 이미지를 프롬프트와 함께 API에 전달함.
+
 ## 고정 캐릭터 디자인 (CHARACTER DESIGN - DO NOT CHANGE)
 
 ### 주인공 (Protagonist)
