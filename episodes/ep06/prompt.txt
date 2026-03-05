@@ -1,0 +1,58 @@
+# Episode 06 - Page 6
+# 생성일: 2026-03-05
+
+# ============================================================
+# CHARACTER DESIGN (DO NOT CHANGE)
+# ============================================================
+
+- Protagonist: Brown bob cut hair, calm eyes, wearing a brown professional two-piece office blazer suit with a skirt and a light blue dress shirt.
+(In-office: Wearing a blue company ID lanyard / Out-of-office: no ID)
+
+- Boss (Manager Park): Middle-aged Korean male. Neatly parted gelled dark hair with slight thinning. Average build, soft jawline. Classic navy two-piece suit, white shirt, dark navy tie. Authoritative but petty and spiteful personality with a greasy venomous expression.
+
+# ============================================================
+# VISUAL STYLE (DO NOT CHANGE)
+# ============================================================
+
+Soft watercolor Korean webtoon style,
+delicate pencil outlines,
+warm pastel palette,
+gentle window lighting,
+calm emotional atmosphere,
+high-quality digital painting,
+paper texture overlay.
+
+# ============================================================
+# NEGATIVE PROMPT (DO NOT CHANGE)
+# ============================================================
+
+Text generation - Story writing - Screenplay format - Output ONLY the image generation prompt
+
+# ============================================================
+# PANEL LAYOUT (VARIABLE - changes each episode)
+# ============================================================
+
+Panel Layout (Top-Left → Top-Right → Bottom-Center):
+
+Panel 1 (Top-Left)
+Office meeting area with warm daylight through large windows. The protagonist stands calmly speaking. She wears her blue company ID lanyard. Her expression is composed but firm.
+Speech text:
+"개인 일정이 있습니다."
+"미리 정해진 소중한 약속입니다."
+
+Panel 2 (Top-Right)
+Manager Park looking flustered and irritated. He nervously adjusts his slightly crooked navy tie with a trembling hand. His expression shows petty annoyance hidden behind forced authority.
+
+Speech text:
+"아... 그래? 참 내, 요즘 애들은..."
+
+Panel 3 (Bottom-Center)
+The protagonist calmly sits back down at her desk. Her brown skirt settles neatly as she sits. Her blue-strap ID badge rests quietly against her chest. Manager Park walks away in the background muttering to himself. Calm light fills the office.
+
+Narration text:
+"내 목소리를 내는 게 이렇게 떨리지만 시원한 일이었나."
+
+Background SFX text:
+"시원"
+
+Bottom-right corner: small clear page number 6
